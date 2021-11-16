@@ -6,6 +6,6 @@ I do [work on monetary theory, cryptocurrencies, and the evolution of norms and 
 - ⌨️ **Programmer:** Well here, of course
 - 📚 **Researcher:** [Google Scholar](https://scholar.google.com/citations?user=-hSsRQEAAAAJ), [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2326669), or [OrcID](https://orcid.org/0000-0003-2703-1627)
 - 📝 **Writer:** [My Blog](https://cameronharwick.com/blog)
-- 🎻 **Musician:** [Bandcamp](https://eptaastera.com)
+- 🎻 **Musician:** [Bandcamp](https://eptaastera.bandcamp.com)
 - 🎧 **Listener of music:** [Last.fm](https://last.fm/user/thrica)
 - 🐦 **Haver of takes:** [Twitter](https://twitter.com/c_harwick)
